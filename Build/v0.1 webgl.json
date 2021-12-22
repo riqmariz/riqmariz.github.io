@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Soma Explosiva",
-"productVersion": "0.1",
+"productVersion": "0.1.1",
 "dataUrl": "v0.1 webgl.data.unityweb",
 "wasmCodeUrl": "v0.1 webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "v0.1 webgl.wasm.framework.unityweb",
